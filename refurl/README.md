@@ -1,6 +1,6 @@
 # 参考链接（reference url）
 ## Cocos游戏引擎以及TypeScript语言的学习
-https://gitee.com/kongla/cocos-learningnote
+https://github.com/URLinkEVA/cocos-learningnote
 
 ## spine
 拆包及spine动画导入教程 https://tieba.baidu.com/p/7829799993
