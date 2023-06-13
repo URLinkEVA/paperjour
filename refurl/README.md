@@ -50,10 +50,52 @@ FFmpeg原理 https://ffmpeg.xianwaizhiyin.net/?from=zh
 
 深入理解快速傅里叶变换 https://www.yvonshong.com/2016/04/09/fft/
 
+SPINE的超级新手教程-之-快乐起步篇 https://www.bilibili.com/read/cv3578797/
 
+精灵表spritesheet打包生成和分割工具 https://tieba.baidu.com/p/7531393400
+
+Unity最新2D功能系列入门教程Skeleton骨骼绑定 https://www.bilibili.com/video/BV1w7411F7qb
+
+Unity User Manual 2021.3(LTS) https://docs.unity.cn/cn/current/Manual/index.html
+
+浅谈原神中的图形渲染技术 https://blog.csdn.net/weixin_44176696/article/details/114176844
+
+派蒙飞行挑战 https://webstatic.mihoyo.com/ys/event/e20200501fly/index.html#/
+
+Cocos Creator实战 https://blog.csdn.net/zhyl8157121/category_9344712.html
+
+原神语音合成体验 https://okmiku.com/anime_tts
+
+语音合成方向五多语言模型 https://blog.csdn.net/liyongqiang2420/article/details/111030859
+
+声纹检索系统与实践 https://aistudio.baidu.com/aistudio/projectdetail/4606645
+
+快速的渲染管线相关知识回顾 https://blog.csdn.net/weixin_43890220/article/details/119321059
+
+COCOS的渲染流程 https://blog.csdn.net/weixin_43890220/article/details/119426806
+
+配音行业现状 https://zhuanlan.zhihu.com/p/363528961
+
+Cocos Creator性能调优优化集锦 https://zhuanlan.zhihu.com/p/266810242
+
+2D Canvas 的渲染优化 https://zhuanlan.zhihu.com/p/110495143
+
+React Fiber架构原理：关于Fiber树的一切 https://zhuanlan.zhihu.com/p/525244896
+
+CocosCreator+TypeScript入门教程 https://blog.csdn.net/potato47/article/details/79254524
+
+信号处理 | 傅里叶变换、短时傅里叶变换、小波变换、希尔伯特变换、希尔伯特黄变换 https://zhuanlan.zhihu.com/p/150705777
+
+Bottle-s-Jigsaw https://github.com/BottleMan/Bottle-s-Jigsaw/tree/master
+
+语音声学特征提取：MFCC和LogFBank算法的原理 https://blog.ailemon.net/2021/03/01/speech-acoustic-feature-extraction-the-principle-of-mfcc-and-logfbank-algorithm/
+
+原神语音合成v3.4 https://aistudio.baidu.com/aistudio/projectdetail/5409393
 
 
 ## 一些非常有用的参考
+各类数据集切分 https://github.com/mamingjie-China/split_dataset
+
 在线字数统计工具 https://c.runoob.com/front-end/5580/
 
 论文排版工具 https://laorange.gitee.io/paper-assistant/
@@ -83,4 +125,7 @@ CAJ转PDF https://github.com/sainnhe/caj2pdf-qt
 
 星彩漫天 https://webstatic.mihoyo.com/ys/event/e20230205-firework-xm7wly/index.html
 
+横版卷轴动作类游戏开发教程 https://learn.u3d.cn/tutorial/2DAdventure
+
+游戏开发比赛 https://www.gmhub.com/home
 
