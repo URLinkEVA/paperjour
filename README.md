@@ -34,4 +34,10 @@ spine骨骼动画
 
 ## tts
 
-训练代码太大，没上传成功
+训练代码太大
+
+可以参考这个项目https://aistudio.baidu.com/aistudio/projectdetail/5409393
+
+NVIDIA在台湾COMPUTEX大会上采用的谷歌TTS音频也存在电子音
+
+视频8分钟位置https://www.bilibili.com/video/BV1zm4y147E9
